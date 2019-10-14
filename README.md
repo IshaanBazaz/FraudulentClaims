@@ -1,1 +1,1 @@
-# FraudulentClaims
+The aim of this project is to identify if a claim made by a worker is a fraudulent claim or non-fraudulent claim for our client – Righteous Compensation Lawyers (RCL). RCL has many insurance companies as their clients and the focus of this project is specifically for those companies. The goal of this project is for RCL to settle claims made by workers to their insurance companies
